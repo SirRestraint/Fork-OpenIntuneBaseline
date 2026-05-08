@@ -89,7 +89,8 @@ This addition was driven by a new Defender Secure Score recommendation ([MC12669
 
 🔄️**Win - OIB - SC - Windows User Experience - U - Copilot**
 * Added "Remove Microsoft Copilot App" set to `Removal Enabled` to trigger removal of the _Consumer_ Copilot app. 
-> [!NOTE] As documented, this will only occur if the following conditions are met: 
+> [!NOTE] 
+> As documented, this will only occur if the following conditions are met: 
 > * Microsoft 365 Copilot and Microsoft Copilot are both installed
 > * The Microsoft Copilot app wasn't installed by the user
 > * The Microsoft Copilot app wasn't launched in the last 14 days
